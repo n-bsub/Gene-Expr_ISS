@@ -1,0 +1,37 @@
+category	term	term_order	RH	RHgroup	RHgroup_order	log10FDR	count
+CC	mitochondrial protein-containing complex (GO:0098798)	1	100% vs 50%	100%	1	4.131300209	107
+CC	inner mitochondrial membrane protein complex (GO:0098800)	2	100% vs 50%	100%	1	2.344537898	81
+CC	mitochondrial proton-transporting ATP synthase complex, coupling factor F(o) (GO:0000276)	3	100% vs 50%	100%	1	2.008198827	11
+CC	mitochondrion (GO:0005739)	4	100% vs 50%	100%	1	5.638192277	618
+BP	mitochondrion organization (GO:0007005)	5	100% vs 50%	100%	1	1.374616201	126
+CC	mitochondrion (GO:0005739)	6	85% vs 50%	85%	2	32.15293932	807
+CC	mitochondrial membrane (GO:0031966)	7	85% vs 50%	85%	2	24.00466286	379
+CC	mitochondrial inner membrane (GO:0005743)	8	85% vs 50%	85%	2	19.1891396	282
+BP	mitochondrial translation (GO:0032543)	9	85% vs 50%	85%	2	13.11278036	109
+CC	mitochondrial protein-containing complex (GO:0098798)	10	85% vs 50%	85%	2	12.50008801	185
+BP	mitochondrion organization (GO:0007005)	11	85% vs 50%	85%	2	9.36197168	152
+CC	inner mitochondrial membrane protein complex (GO:0098800)	12	85% vs 50%	85%	2	7.877363152	145
+CC	mitochondrial matrix (GO:0005759)	13	85% vs 50%	85%	2	6.716140123	169
+CC	mitochondrial small ribosomal subunit (GO:0005763)	14	85% vs 50%	85%	2	6.240087698	42
+CC	mitochondrial large ribosomal subunit (GO:0005762)	15	85% vs 50%	85%	2	5.746365417	54
+BP	mitochondrial membrane organization (GO:0007006)	16	85% vs 50%	85%	2	5.343081612	66
+CC	mitochondrial intermembrane space (GO:0005758)	17	85% vs 50%	85%	2	4.440750756	71
+BP	mitochondrial respiratory chain complex assembly (GO:0033108)	18	85% vs 50%	85%	2	2.907444943	55
+CC	mitochondrial respiratory chain complex I (GO:0005747)	19	85% vs 50%	85%	2	2.609239045	49
+BP	inner mitochondrial membrane organization (GO:0007007)	20	85% vs 50%	85%	2	2.087354953	33
+CC	mitochondrial outer membrane (GO:0005741)	21	85% vs 50%	85%	2	1.901057405	66
+BP	mitochondrial respiratory chain complex III assembly (GO:0034551)	22	85% vs 50%	85%	2	1.748851934	11
+CC	mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1) (GO:0000275)	23	85% vs 50%	85%	2	1.666059831	10
+BP	mitochondrial respiratory chain complex III assembly (GO:0034551)	24	85% vs 50%	50%			
+BP	mitochondrial electron transport, cytochrome c to oxygen (GO:0006123)	25	100% vs 50%	50%	3	1.418648711	47
+BP	mitochondrial ATP synthesis coupled proton transport (GO:0042776)	26	100% vs 50%	50%	3	1.32091377	38
+CC	inner mitochondrial membrane protein complex (GO:0098800)	27	100% vs 85%	85%	2	9.108630174	159
+CC	mitochondrial protein-containing complex (GO:0098798)	28	100% vs 85%	85%	2	7.110293905	175
+CC	mitochondrial respiratory chain complex I (GO:0005747)	29	100% vs 85%	85%	2	5.165083333	57
+CC	mitochondrial proton-transporting ATP synthase complex (GO:0005753)	30	100% vs 85%	85%	2	4.899569812	22
+BP	mitochondrial electron transport, cytochrome c to oxygen (GO:0006123)	31	100% vs 85%	85%	2	3.957468349	32
+CC	mitochondrial respiratory chain complex IV (GO:0005751)	32	100% vs 85%	85%	2	3.364799395	28
+CC	mitochondrial respiratory chain complex III (GO:0005750)	33	100% vs 85%	85%	2	2.272992435	21
+BP	mitochondrial electron transport, NADH to ubiquinone (GO:0006120)	34	100% vs 85%	85%	2	1.562419925	21
+BP	mitochondrial electron transport, ubiquinol to cytochrome c (GO:0006122)	35	100% vs 85%	85%	2	1.342940917	21
+BP	mitochondrial electron transport, ubiquinol to cytochrome c (GO:0006122)	36	100% vs 85%	100%			

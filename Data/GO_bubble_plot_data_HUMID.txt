@@ -1,0 +1,21 @@
+category	term	term_order	RH	RHgroup	RHgroup_order	log10FDR	count
+BP	reproductive fruiting body development (GO:0030582)	1	85% vs 50%	85%	2	1.853274995	24
+BP	sporocarp development involved in sexual reproduction (GO:0000909)	2	85% vs 50%	85%	2	1.66	21
+BP	sporocarp development (GO:0030584)	3	85% vs 50%	85%	2	1.853274995	24
+BP	spore-bearing structure development (GO:0075259)	4	85% vs 50%	85%	2	1.853274995	24
+BP	asexual spore wall assembly (GO:0042243)	5	100% vs 85%	100%	1	2.146967343	11
+BP	spore wall assembly (GO:0042244)	6	100% vs 85%	100%	1	2.259123932	18
+CC	fungal-type vacuole (GO:0000324)	7	100% vs 85%	100%	1	2.799867215	91
+CC	fungal-type vacuole (GO:0000324)	8	100% vs 50%	100%			
+MF	trehalose synthase activity (GO:0102986)	9	100% vs 85%	100%	1	1.381394478	11
+MF	alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity (GO:0003825)	10	100% vs 85%	100%	1	1.423453355	16
+BP	cell wall assembly (GO:0070726)	11	100% vs 85%	100%	1	2.047270571	18
+BP	secondary metabolic process (GO:0019748)	12	100% vs 85%	100%	1	2.79	118
+BP	secondary metabolite biosynthetic process (GO:0044550)	13	100% vs 85%	100%	1	3.554774229	103
+BP	positive regulation of aflatoxin biosynthetic process (GO:1900179)	14	100% vs 85%	100%	1	2.259123932	8
+BP	regulation of aflatoxin biosynthetic process (GO:1900177)	15	100% vs 85%	100%	1	2.259123932	8
+BP	primary metabolic process (GO:0044238)	16	100% vs 50%	50%	3	83.61054827	6074
+BP	primary metabolic process (GO:0044238)	17	100% vs 85%	85%	2	22.13985589	2687
+BP	alpha-amino acid metabolic process (GO:1901605)	18	100% vs 50%	50%	3	12.24395749	577
+BP	carbohydrate metabolic process (GO:0005975)	19	100% vs 50%	50%	3	6.872246611	854
+BP	reproductive fruiting body development (GO:0030582)	20	85% vs 50%	50%			
