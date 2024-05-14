@@ -1,3 +1,3 @@
 <h2>License Information</h2>
 The codes have an MIT license. 
-For all other files (including all data and figures), please cite and credit this repository with a CC-by-4 license until the work is accepted/published.
+All other files (including all data and figures), have a CC-by-4 license until the work is accepted/published so please cite and credit this repository until this work is published.
