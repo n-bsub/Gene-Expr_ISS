@@ -1,3 +1,4 @@
 <h2>License Information</h2>
-The codes have an MIT license. 
-All other files (including all data and figures), have a CC-by-4 license until the work is accepted/published. Please credit this repository until this work is published and can be cited.
+Please credit and cite this work:
+https://www.nature.com/articles/s41598-025-09534-6
+Balasubrahmaniam, N., Nastasi, N., Hegarty, B. et al. Exposure to elevated relative humidity in laboratory chambers alters fungal gene expression in dust from the International Space Station (ISS). Sci Rep 15, 28366 (2025). https://doi.org/10.1038/s41598-025-09534-6
